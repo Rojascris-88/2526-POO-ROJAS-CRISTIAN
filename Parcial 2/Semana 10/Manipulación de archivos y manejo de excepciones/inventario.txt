@@ -1,0 +1,10 @@
+001,Martillos,12,14.0
+002,Serruchos,18,10.0
+003,Taladros,30,35.0
+004,Brochas,26,5.0
+005,Cementos,100,12.0
+006,Carretas,8,24.0
+007,Ladrillos,1000,0.3
+008,Palas,20,15.0
+009,Playos de presion,10,16.0
+010,Escaleras de aluminio,6,28.0
