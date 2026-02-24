@@ -1,0 +1,32 @@
+[
+    {
+        "id": "001",
+        "nombre": "Galletas",
+        "cantidad": 12,
+        "precio": 0.35
+    },
+    {
+        "id": "002",
+        "nombre": "Aceite 1 litro",
+        "cantidad": 15,
+        "precio": 1.8
+    },
+    {
+        "id": "003",
+        "nombre": "Arroz 2 Kilos",
+        "cantidad": 25,
+        "precio": 2.2
+    },
+    {
+        "id": "004",
+        "nombre": "Azucar 1 Kilo",
+        "cantidad": 18,
+        "precio": 1.25
+    },
+    {
+        "id": "005",
+        "nombre": "Mantequilla",
+        "cantidad": 15,
+        "precio": 1.65
+    }
+]
