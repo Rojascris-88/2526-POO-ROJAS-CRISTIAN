@@ -1,0 +1,34 @@
+{
+    "libros": [
+        {
+            "titulo": "La sombra del viento",
+            "autor": "\tCarlos Ruiz Zafón",
+            "categoria": "Ficción",
+            "isbn": "07946-7",
+            "disponible": false
+        },
+        {
+            "titulo": "El Código Da Vinci",
+            "autor": "Dan Brown",
+            "categoria": "Ficción",
+            "isbn": "07948-1",
+            "disponible": true
+        },
+        {
+            "titulo": "El Alquimista",
+            "autor": "Paulo Coelho",
+            "categoria": "Ficción",
+            "isbn": "07945-0",
+            "disponible": true
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Cristian Rojas",
+            "id_usuario": "001",
+            "libros_prestados": [
+                "07946-7"
+            ]
+        }
+    ]
+}
